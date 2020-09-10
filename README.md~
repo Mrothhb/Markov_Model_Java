@@ -1,0 +1,9 @@
+#Program Description
+The MarkovModel program is based on the concept by the algorithm invented by 
+the Russian mathematician Andrey Markov. The algorithm is used for decision 
+making processes and is regarding for its "memorylessness decision making. 
+The program will use the Markov decision making process to generate a sequence
+of words based on words taken from a text file. The words in the text file will
+be used as prefix words for prediction words that come right after the prefix. 
+The program will generate a specific amount of prediction words based on the 
+given degree of words 
